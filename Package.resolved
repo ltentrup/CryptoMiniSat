@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SATSolver",
+        "repositoryURL": "https://github.com/ltentrup/SATSolver.git",
+        "state": {
+          "branch": null,
+          "revision": "eb3f11eadac06ff3809a58de1a570664193bd601",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
