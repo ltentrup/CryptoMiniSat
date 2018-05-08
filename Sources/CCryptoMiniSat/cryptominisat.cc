@@ -4,6 +4,7 @@ extern "C" {
 
 #include "cryptominisat.h"
 #include <assert.h>
+#include <algorithm>
 
 using namespace CMSat;
 
